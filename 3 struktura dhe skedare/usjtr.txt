@@ -1,0 +1,18 @@
+
+8.	Nderton 2 skedare te rinj: student2.txt dhe nota2.txt me kodet e studenteve dhe notat
+	e tyre perkatesisht, te renditura sipas mesatares ne rend zbrites.
+
+
+9.	Afishon kodet e studenteve qe i kane marre te gjitha notat 10-ta.
+
+
+10.	Afishon ne nje skedar te ri vetem kodet e studenteve qe kane kaluar ne cdo lende.
+
+
+11.	Afishon sa studente kane marre te pakten nje note jokaluese.
+
+
+12.	Shton ne fund te skedarit nota.txt mesataren e pergjithshme te studenteve.
+
+
+13	Afishon numrin e notave 10.

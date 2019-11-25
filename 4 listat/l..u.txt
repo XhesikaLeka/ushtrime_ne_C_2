@@ -1,0 +1,9 @@
+1.	Te ndertohet nje funksion qe merr si parameter nje liste nje-drejtimore dhe nje numer te plote M. Te kthehet lista pasi eshte shtuar vlera e dhene e pozicionin e pare dhe te fundit.
+
+2.	Te ndertohet nje funksion qe merr si parameter nje liste nje-drejtimore rrethore dhe shton ne fund te listes nje nyje te re te barabarte me nyjen e fundit.
+
+3.	Te ndertohet nje funksion qe merr si parameter dy lista nje-drejtimore rrethore, shton listen e pare pas listes se dyte dhe klthen listen e re.
+
+4.	Te ndertohet nje funksion qe merr si parameter nje liste dy-drejtimore dhe nje numer te plote M, fshin nga lista te gjithe elementet e barabarte me M dhe kthen listen e re.
+
+5.	Te ndertohet nje funksion qe merr si parameter nje liste dy-drejtimore dhe nje numer te plote M, shton numrin M pas elementin te M-te, nqs lista ka me pak se M elemente te shtohet ne fund.
